@@ -1,9 +1,5 @@
 <?php 
 
-$nome = "ALison";
-$last = "Aguiar";
-
-
-echo "Hello World !!! $nome";
+echo "Hello World !!!";
 
 xdebug_info();
